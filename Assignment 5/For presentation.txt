@@ -1,0 +1,5 @@
+Why I didn't opted for user trials
+They take time and they don't give the exact idea about the system interaction
+Why not heuristic evaluation?
+Doesn't involve user's opinion or testing as the testers are not the same
+So we can not expect accurate results
